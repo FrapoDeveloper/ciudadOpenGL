@@ -1,0 +1,280 @@
+# depslib dependency file v1.0
+1566454559 source:d:\jose2\cátedra\cátedraunt\2019-ii\valle\jlperalta_cgi\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
+1368298160 d:\jose2\cátedra\cátedraunt\2019-ii\valle\jlperalta_cgi\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368298160 d:\jose2\cátedra\cátedraunt\2019-ii\valle\jlperalta_cgi\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1566458158 source:d:\cgraf\jlperalta_cgi\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
+1368298160 d:\cgraf\jlperalta_cgi\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368298160 d:\cgraf\jlperalta_cgi\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1566494999 source:c:\users\user\desktop\jlperalta_cgi\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1368298160 c:\users\user\desktop\jlperalta_cgi\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368298160 c:\users\user\desktop\jlperalta_cgi\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1567223744 source:c:\users\dinora\desktop\jlperalta_cgi\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1566496121 c:\users\dinora\desktop\jlperalta_cgi\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566496121 c:\users\dinora\desktop\jlperalta_cgi\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1567499097 source:c:\users\fran espino\desktop\jlperalta_cgi\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1566496121 c:\users\fran espino\desktop\jlperalta_cgi\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566496121 c:\users\fran espino\desktop\jlperalta_cgi\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1567568457 source:c:\users\fran espino\desktop\unt\lv ciclo\computacion grafica\jlperalta_cgi\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1566496121 c:\users\fran espino\desktop\unt\lv ciclo\computacion grafica\jlperalta_cgi\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566496121 c:\users\fran espino\desktop\unt\lv ciclo\computacion grafica\jlperalta_cgi\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1567688610 source:e:\jlperalta_cgi\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1566517722 e:\jlperalta_cgi\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 e:\jlperalta_cgi\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1567697172 source:c:\users\frapodeveloper\desktop\unt\lv ciclo\computacion grafica\1-cambiarcolor\main.cpp
+	<GL\glut.h>
+	<stdio.h>
+
+1566517722 c:\users\frapodeveloper\desktop\unt\lv ciclo\computacion grafica\1-cambiarcolor\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 c:\users\frapodeveloper\desktop\unt\lv ciclo\computacion grafica\1-cambiarcolor\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1570719471 source:c:\users\frapodeveloper\desktop\1-cambiarcolor\main.cpp
+	<GL\glut.h>
+	<stdio.h>
+	<iostream>
+
+1566517722 c:\users\frapodeveloper\desktop\1-cambiarcolor\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 c:\users\frapodeveloper\desktop\1-cambiarcolor\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1570727123 source:c:\users\frapodeveloper\desktop\peralta 3d\main.cpp
+	<gl/glut.h>
+
+1566517722 c:\users\frapodeveloper\desktop\peralta 3d\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 c:\users\frapodeveloper\desktop\peralta 3d\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1570728179 source:c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\peralta 3d\main.cpp
+	<gl/glut.h>
+
+1566517722 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\peralta 3d\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\peralta 3d\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1575547958 source:c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\main.cpp
+	<gl/glut.h>
+	<iostream>
+	<Carretera.h>
+	<Tractor.h>
+	<Arbol.h>
+	<Edificio.h>
+	<Pasto.h>
+	<Abispas.h>
+	<windows.h>
+	<Helicoptero.h>
+	<Semaforo.h>
+
+1566517722 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1575223815 source:c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\src\carretera.cpp
+	"Carretera.h"
+
+1575501828 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\include\carretera.h
+	<gl/glut.h>
+
+1575543954 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\include\tractor.h
+	<gl/glut.h>
+	<iostream>
+
+1575487346 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\include\arbol.h
+	<gl/glut.h>
+
+1575537624 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\include\edificio.h
+	<gl/glut.h>
+	<math.h>
+
+1575490279 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\include\pasto.h
+	<gl/glut.h>
+
+1575493433 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\include\abispas.h
+	<gl/glut.h>
+
+1575546737 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\include\helicoptero.h
+
+1575540725 c:\users\frapodeveloper\desktop\frapo\lv ciclo\computacion grafica\3d\1-basico en 3d\include\semaforo.h
+	<gl/glut.h>
+
+1576030360 source:c:\users\frapodeveloper\desktop\ciudadopengl\main.cpp
+	<gl/glut.h>
+	<iostream>
+	<Carretera.h>
+	<Tractor.h>
+	<Arbol.h>
+	<Edificio.h>
+	<Pasto.h>
+	<Abispas.h>
+	<windows.h>
+	<Helicoptero.h>
+	<Semaforo.h>
+
+1566517722 c:\users\frapodeveloper\desktop\ciudadopengl\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 c:\users\frapodeveloper\desktop\ciudadopengl\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1575501828 c:\users\frapodeveloper\desktop\ciudadopengl\include\carretera.h
+	<gl/glut.h>
+
+1575543954 c:\users\frapodeveloper\desktop\ciudadopengl\include\tractor.h
+	<gl/glut.h>
+	<iostream>
+
+1575487346 c:\users\frapodeveloper\desktop\ciudadopengl\include\arbol.h
+	<gl/glut.h>
+
+1575537624 c:\users\frapodeveloper\desktop\ciudadopengl\include\edificio.h
+	<gl/glut.h>
+	<math.h>
+
+1575490279 c:\users\frapodeveloper\desktop\ciudadopengl\include\pasto.h
+	<gl/glut.h>
+
+1575493433 c:\users\frapodeveloper\desktop\ciudadopengl\include\abispas.h
+	<gl/glut.h>
+
+1575546737 c:\users\frapodeveloper\desktop\ciudadopengl\include\helicoptero.h
+
+1575540725 c:\users\frapodeveloper\desktop\ciudadopengl\include\semaforo.h
+	<gl/glut.h>
+

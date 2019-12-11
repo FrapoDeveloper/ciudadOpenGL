@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="JLPERALTA_CGI" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/JLPERALTA_CGI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/JLPERALTA_CGI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="dependencias/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lfreeglut" />
+			<Add option="-lopengl32" />
+			<Add option="-lglu32" />
+			<Add option="-lwinmm" />
+			<Add option="-lgdi32" />
+			<Add library="dependencias/lib/libfreeglut_static.a" />
+			<Add directory="dependencias/lib" />
+		</Linker>
+		<Unit filename="include/Arbol.h" />
+		<Unit filename="include/Carretera.h" />
+		<Unit filename="include/Edificio.h" />
+		<Unit filename="include/Helicoptero.h" />
+		<Unit filename="include/Pasto.h" />
+		<Unit filename="include/Semaforo.h" />
+		<Unit filename="include/Tractor.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
